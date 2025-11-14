@@ -28,13 +28,13 @@
 ### Projetos em Destaque
 <div align="center">
   <a href="https://github.com/pietro-renno/Sistema-padr-o-MVC">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=SEU-USUARIO-AQUI&repo=SEU-REPOSITORIO-1&theme=tokyonight" />
+    <img width="48%" src="https://cdna.artstation.com/p/assets/images/images/065/727/966/original/gabriel-bortolazo-coffee.gif?1691069528" />
   </a>
   <a href="https://github.com/pietro-renno/Jogo-drag-and-drop">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=SEU-USUARIO-AQUI&repo=SEU-REPOSITORIO-2&theme=tokyonight" />
+    <img width="48%" src="https://i.redd.it/gwjhpjmy4b481.gif" />
   </a>
   <a href="https://github.com/pietro-renno/RedeSocial">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=SEU-USUARIO-AQUI&repo=SEU-REPOSITORIO-2&theme=tokyonight" />
+    <img width="48%" src="https://img1.picmix.com/output/pic/normal/2/6/7/7/11767762_f2d50.gif" />
   </a>
 </div>
 
