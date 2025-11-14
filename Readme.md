@@ -1,4 +1,4 @@
-# Olá, eu sou o Pietro Silva Rennó! 👋
+# Olá, Me chamo Pietro Rennó!
 
 Bem-vindo(a) ao meu espaço no GitHub! Sou um estudante e entusiasta de tecnologia, apaixonado por transformar ideias em realidade, seja através de código ou de acordes de guitarra. Atualmente, estou cursando Técnico em Desenvolvimento de Sistemas, sempre em busca de novos desafios e aprendizados.
 
