@@ -28,7 +28,7 @@
 ### Projetos em Destaque
 <div align="center">
   <a href="https://github.com/pietro-renno/Sistema-padr-o-MVC">
-    <img width="48%" src="https://cdna.artstation.com/p/assets/images/images/065/727/966/original/gabriel-bortolazo-coffee.gif?1691069528" />
+    <img width="48%" src="/imagens/gif cafe.gif" />
   </a>
   <a href="https://github.com/pietro-renno/Jogo-drag-and-drop">
     <img width="48%" src="https://i.redd.it/gwjhpjmy4b481.gif" />
