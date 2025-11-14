@@ -18,11 +18,7 @@
     Minha curiosidade me leva do desenvolvimento web à montagem de dispositivos IoT.<br>
     Fora do código, sou músico, guitarrista e compositor, e tenho um grande interesse por ciências, animais, poesia e filosofia.
   </p>
-  <!-- ALtere os links abaixo para os seus -->
-  <a href="[SEU-LINK-DO-LINKEDIN-AQUI]">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:[SEU-EMAIL-AQUI]">
+  <a href="mailto:[rennopietro@gmail.com]">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
@@ -30,26 +26,17 @@
 ---
 
 ### Projetos em Destaque
-<!-- IMPORTANTE: Troque 'SEU-USUARIO-AQUI' pelo seu nome de usuário do GitHub e 'SEU-REPOSITORIO-1' pelo nome do seu projeto -->
 <div align="center">
-  <a href="https://github.com/SEU-USUARIO-AQUI/SEU-REPOSITORIO-1">
+  <a href="https://github.com/pietro-renno/Sistema-padr-o-MVC">
     <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=SEU-USUARIO-AQUI&repo=SEU-REPOSITORIO-1&theme=tokyonight" />
   </a>
-  <a href="https://github.com/SEU-USUARIO-AQUI/SEU-REPOSITORIO-2">
+  <a href="https://github.com/pietro-renno/Jogo-drag-and-drop">
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=SEU-USUARIO-AQUI&repo=SEU-REPOSITORIO-2&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/pietro-renno/RedeSocial">
     <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=SEU-USUARIO-AQUI&repo=SEU-REPOSITORIO-2&theme=tokyonight" />
   </a>
 </div>
-
----
-
-## GitHub Analytics
-<!-- IMPORTANTE: Troque 'SEU-USUARIO-AQUI' pelo seu nome de usuário do GitHub -->
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SEU-USUARIO-AQUI&theme=tokyonight" />
-  <img src="https://github-profile-trophy.vercel.app/?username=SEU-USUARIO-AQUI&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
-</div>
-
----
 
 ### Conexões (Professores e amigos)
 <!-- Adicione aqui os perfis de suas conexões -->
@@ -57,27 +44,27 @@
   <table>
     <tr>
       <td align="center" width="100">
-        <a href="https://github.com/USUARIO-AMIGO-1">
-          <img src="https://github.com/USUARIO-AMIGO-1.png" width="50" style="border-radius:50%"/><br>
-          <sub>@USUARIO-AMIGO-1</sub>
+        <a href="https://github.com/felipenhoslol">
+          <img src="https://avatars.githubusercontent.com/u/202663156?v=4" width="50" style="border-radius:50%"/><br>
+          <sub>felipenhoslol</sub>   
         </a>
       </td>
       <td align="center" width="100">
-        <a href="https://github.com/USUARIO-AMIGO-2">
-          <img src="https://github.com/USUARIO-AMIGO-2.png" width="50" style="border-radius:50%"/><br>
-          <sub>@USUARIO-AMIGO-2</sub>
+        <a href="https://github.com/Tomate3181">
+          <img src="https://avatars.githubusercontent.com/u/112053913?v=4" width="50" style="border-radius:50%"/><br>
+          <sub>Tomate3181 </sub>
         </a>
       </td>
       <td align="center" width="100">
-        <a href="https://github.com/USUARIO-AMIGO-3">
-          <img src="https://github.com/USUARIO-AMIGO-3.png" width="50" style="border-radius:50%"/><br>
-          <sub>@USUARIO-AMIGO-3</sub>
+        <a href="https://github.com/Vinicius3442">
+          <img src="https://avatars.githubusercontent.com/u/202663685?v=4" width="50" style="border-radius:50%"/><br>
+          <sub>Vinicius3442</sub>
         </a>
       </td>
        <td align="center" width="100">
-        <a href="https://github.com/USUARIO-AMIGO-4">
-          <img src="https://github.com/USUARIO-AMIGO-4.png" width="50" style="border-radius:50%"/><br>
-          <sub>@USUARIO-AMIGO-4</sub>
+        <a href="https://github.com/Cardoso30S">
+          <img src="https://avatars.githubusercontent.com/u/85962499?v=4" width="50" style="border-radius:50%"/><br>
+          <sub>Cardoso30S</sub>
         </a>
       </td>
     </tr>
