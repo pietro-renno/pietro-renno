@@ -10,20 +10,20 @@
 
 ---
 
-### 📂 ~/identity
+###  ~/identity
 - **Status:** *Awake at 3AM*
 - **Vibe:** *Grunge / Y2K*
 - **Gear:** *Guitar & Terminal*
 - **Motto:** *Create things that feel alive*
 
-### 📡 ~/current_frequence
+###  ~/current_frequence
 - **Listening:** *Deftones / Slowdive / Type O Negative*
 - **Focus:** *Creative Coding & Low-level aesthetics*
 - **Mood:** *Distorted*
 
 ---
 
-### 🛠 ~/tech_stack
+###  ~/tech_stack
 
 <div align="center">
 
@@ -38,7 +38,7 @@
 
 ---
 
-### 🎧 ~/atmosphere
+###  ~/atmosphere
 
 <div align="center">
 
@@ -50,7 +50,7 @@
 
 ---
 
-### 🔌 ~/connection_ports
+###  ~/connection_ports
 
 <div align="center">
 
