@@ -35,15 +35,11 @@
 <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pietro-renno&layout=compact&theme=transparent&title_color=ffffff&text_color=7a7a7a&hide_border=true" />
 
 </div>
-
----
-### <img width="1919" height="961" alt="Captura de tela 2026-05-08 135948" src="https://github.com/user-attachments/assets/9493cade-22d4-4fa1-b386-fbbedec32608" />
  ~/featured_works
 
 <div align="center">
 
-| <img src="https://github.com/user-attachments/assets/9493cade-22d4-4fa1-b386-fbbedec32608"
-" width="400"> | <img src="https://github.com/user-attachments/assets/2d0125a5-6135-4bd2-a2d0-0c952b29695e" width="400">
+| <img src="https://github.com/user-attachments/assets/334548cb-ee65-4f4d-ab17-e8ba1668ac3a" width="400"> | <img src="https://github.com/user-attachments/assets/2d0125a5-6135-4bd2-a2d0-0c952b29695e" width="400">
 | :---: | :---: |
 | **Projeto de lista** | **Cores alternadas** |
 | *Uma pagina para listar filmes, coisas e etc* | *Uma forma alternada de cores do mesmo site* |
