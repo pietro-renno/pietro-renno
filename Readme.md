@@ -29,7 +29,8 @@
 
 <img src="https://skillicons.dev/icons?i=js,ts,python,html,css,git,vscode,discord&theme=dark" />
 </div>
- ~/featured_works
+
+### ~/featured_works
 
 <div align="center">
 
