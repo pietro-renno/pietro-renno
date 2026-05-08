@@ -27,7 +27,7 @@
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=js,ts,nodejs,python,html,css,git,linux,vscode,discord&theme=dark" />
+<img src="https://skillicons.dev/icons?i=js,ts,python,html,css,git,vscode,discord&theme=dark" />
 
 <br><br>
 
@@ -37,6 +37,18 @@
 </div>
 
 ---
+### <img width="1919" height="961" alt="Captura de tela 2026-05-08 135948" src="https://github.com/user-attachments/assets/9493cade-22d4-4fa1-b386-fbbedec32608" />
+ ~/featured_works
+
+<div align="center">
+
+| <img src="https://github.com/user-attachments/assets/9493cade-22d4-4fa1-b386-fbbedec32608"
+" width="400"> | <img src="https://github.com/user-attachments/assets/2d0125a5-6135-4bd2-a2d0-0c952b29695e" width="400">
+| :---: | :---: |
+| **Projeto de lista** | **Cores alternadas** |
+| *Uma pagina para listar filmes, coisas e etc* | *Uma forma alternada de cores do mesmo site* |
+
+</div>
 
 ###  ~/atmosphere
 
@@ -54,9 +66,7 @@
 
 <div align="center">
 
-<a href="https://github.com/pietro-renno">
-<img src="https://img.shields.io/badge/GITHUB-000?style=for-the-badge&logo=github&logoColor=white" /></a>
-<a href="https://discord.com/users/seu-id-aqui">
+<a href="https://discord.com/users/__d3mos_03415">
 <img src="https://img.shields.io/badge/DISCORD-000?style=for-the-badge&logo=discord&logoColor=white" /></a>
 
 <br><br>
