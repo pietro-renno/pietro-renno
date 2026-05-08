@@ -17,7 +17,7 @@
 - **Motto:** *Create things that feel alive*
 
 ###  ~/current_frequence
-- **Listening:** *Deftones / Slowdive / Type O Negative*
+- **Listening:** *Slowdive / Novulent / wisp*
 - **Focus:** *Creative Coding & Low-level aesthetics*
 - **Mood:** *Distorted*
 
