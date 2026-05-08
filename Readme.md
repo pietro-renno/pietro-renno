@@ -32,7 +32,7 @@
   <a href="https://github.com/pietro-renno/Jogo-drag-and-drop">
     <img width="48%" src="https://i.redd.it/gwjhpjmy4b481.gif" />
   </a>
-  <a href="https://github.com/pietro-renno/RedeSocial">
+  <a href="https://github.com/pietro-renno/RedeSocial](https://github.com/pietro-renno/filmes-lista">
     <img width="48%" src="https://img1.picmix.com/output/pic/normal/2/6/7/7/11767762_f2d50.gif" />
   </a>
 </div>
