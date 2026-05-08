@@ -50,8 +50,8 @@
 
 <div align="center">
 
-<a href="https://open.spotify.com/user/seu-id-aqui">
-<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=22sc734ay6v7fscghr6r6unuy&cover_image=true&theme=novatorem&show_offline=true&background_color=0d0d0d&interchange=true&bar_color=5c5c5c&bar_color_cover=false" />
+<a href="https://open.spotify.com/user/31u5ksmxpyrd4hshb4o2zlqwrgiq?si=2139c63a7da5493e">
+<img src="<img width="970" height="290" alt="perfil" src="https://github.com/user-attachments/assets/e379b258-50b6-41c9-a6d1-a1fb6d2bfa04"/>
 </a>
 
 </div>
