@@ -28,12 +28,6 @@
 <div align="center">
 
 <img src="https://skillicons.dev/icons?i=js,ts,python,html,css,git,vscode,discord&theme=dark" />
-
-<br><br>
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=pietro-renno&show_icons=true&theme=transparent&title_color=ffffff&text_color=7a7a7a&icon_color=ffffff&hide_border=true" />
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pietro-renno&layout=compact&theme=transparent&title_color=ffffff&text_color=7a7a7a&hide_border=true" />
-
 </div>
  ~/featured_works
 
@@ -51,7 +45,7 @@
 <div align="center">
 
 <a href="https://open.spotify.com/user/31u5ksmxpyrd4hshb4o2zlqwrgiq?si=2139c63a7da5493e">
-<img src="<img width="970" height="290" alt="perfil" src="https://github.com/user-attachments/assets/e379b258-50b6-41c9-a6d1-a1fb6d2bfa04"/>
+<img src="https://github.com/user-attachments/assets/e379b258-50b6-41c9-a6d1-a1fb6d2bfa04"/>
 </a>
 
 </div>
